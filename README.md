@@ -24,7 +24,7 @@ There are some requirements for the ProcessKiller
 
 ### Download
 
-![programmer](https://user-images.githubusercontent.com/56482435/203429099-dfc63100-ec19-4b09-be5d-2d7b5ec7ff31.png)
+![programmer(1)](https://user-images.githubusercontent.com/56482435/203429440-f37a2772-0781-4c81-abce-24e43a5ee990.png)
 
 To download ProcessKiller you need to do next commands. 
 
