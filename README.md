@@ -27,7 +27,7 @@ and
 ### If you want Compile rewrite code
 
 ```python
- pyinstaller -D "Path to File" -w
+  pyinstaller -D "Path to File" -w
 ```
 Where you run this command the build folder will appear. It will contain the project folder.
 Open this folder and replace in there
