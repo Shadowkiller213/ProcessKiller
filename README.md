@@ -25,7 +25,7 @@ There are some requirements for the ProcessKiller
 
 To download ProcessKiller you need to do next commands. 
 
-    git clone https://github.com/Shadowkiller213/ProcessKiller
+    git clone https://github.com/Shadowkiller213/ProcessKiller --recurse-submodules
     pip install psutil pyinstaller
     cd ProcessKiller
     
