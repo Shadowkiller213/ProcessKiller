@@ -1,6 +1,6 @@
 # *ProcessKiller*
 
-![image_2022-11-22_23-44-41](https://user-images.githubusercontent.com/56482435/203417762-5a7965d1-8821-4d38-b7b9-08383bab22b3.png)
+![output-www](https://user-images.githubusercontent.com/56482435/203431058-df0a8b50-2b71-499b-9846-677a682fa856.png)
 
 ProcessKiller - a program that removes junk from the computer (Roblox), wtitten in Python
 
