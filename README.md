@@ -1,4 +1,4 @@
-# ProcessKiller
+# _ProcessKiller
 
 ![image_2022-11-22_23-37-11](https://user-images.githubusercontent.com/56482435/203416316-30dbd148-bce5-45e1-a317-fe4f73287ccf.png)
 
@@ -44,7 +44,7 @@ Open this folder and replace in there
 
 /Python/Lib/site-package/psutil
 
-### If you want rename Programm
+### If you want rename Program
 
 You need rename python script and compile
 
