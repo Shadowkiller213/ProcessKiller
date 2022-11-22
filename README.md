@@ -1,6 +1,6 @@
 # ProcessKiller
 
-![image_2022-11-22_23-35-04](https://user-images.githubusercontent.com/56482435/203416084-6fb28aee-a3ef-4041-89c9-ec1d4f3ffc3a.png)
+![image_2022-11-22_23-34-56](https://user-images.githubusercontent.com/56482435/203416124-dd05e285-4761-4e2f-9c9c-e773bcb19049.png)
 
 If you want to download the program itself, then download ProcessKiller and start ProcessKiller.exe
 ```python
