@@ -12,6 +12,7 @@ ProcessKiller - a program that removes junk from the computer (Roblox), wtitten 
 -   [License](#license)
 
 ## Getting Started
+![laptop](https://user-images.githubusercontent.com/56482435/203428669-38987ba0-4e6c-420c-b929-428662f58600.png)
 
 These instructions will get you a copy of the project up and running on your machine.
 
