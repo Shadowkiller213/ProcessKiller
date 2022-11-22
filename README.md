@@ -4,7 +4,7 @@
 
 If you want to download the program itself, then download ProcessKiller and start ProcessKiller.exe
 ```python
-  pip install psutil
+ pip install psutil
 ```
 
 ## If you want rewrite code
@@ -16,7 +16,7 @@ You need to download package psutil and pyinstaller
 Download psutil you can "/Lib/psutil/setup.py" 
 or
 ```python
-  pip install psutil
+ pip install psutil
 ```
 and
 
@@ -27,7 +27,7 @@ and
 ### If you want Compile rewrite code
 
 ```python
-  pyinstaller -D "Path to File" -w
+ pyinstaller -D "Path to File" -w
 ```
 Where you run this command the build folder will appear. It will contain the project folder.
 Open this folder and replace in there
