@@ -2,54 +2,49 @@
 
 ![image_2022-11-22_23-44-41](https://user-images.githubusercontent.com/56482435/203417762-5a7965d1-8821-4d38-b7b9-08383bab22b3.png)
 
-If you want to download the program itself, then download ProcessKiller and start ProcessKiller.exe
-```python
-pip install psutil
-```
+ProcessKiller - a program that removes junk from the computer (Roblox), wtitten in Python
 
 
-## If you want rewrite code
+## Summary
 
-You need to download "/Scripts/ProcessKiller.py"
-and
-You need to download package psutil and pyinstaller
+-   [Getting Started](#getting-started)
+-   [Authors](#authors)
+-   [License](#license)
 
-Download psutil you can "/Lib/psutil/setup.py" 
-or
-```python
- pip install psutil
-```
-and
+## Getting Started
 
-```python
- pip install pyinstaller
-```
+These instructions will get you a copy of the project up and running on your machine.
 
+### Prerequisites
 
-### If you want Compile rewrite code
+There are some requirements for the ProcessKiller
 
-```python
- pyinstaller -D "Path to File" -w
-```
-Where you run this command the build folder will appear. It will contain the project folder.
-Open this folder and replace in there
+    python, psutil, pyinstaller
 
+### Download
 
-###"Path to Python"
+To download ProcessKiller you need to do next commands. 
 
-/Python/python3.dll
+    git clone https://github.com/Shadowkiller213/ProcessKiller
+    pip install psutil pyinstaller
+    cd ProcessKiller
+    
+After it, start ProcessKiller.exe.
 
-/Python/python.version.dll
+### Development
 
-/Python/DLLs/_socket.py
+If you want modify source code of this program, follow these steps:
 
-/Python/DLLs/select
+    1) Make personal fork of this repository.
+    2) Open "Scripts/ProcessKiller.py" in Python IDLE or different code editor.
+    3) Modify the code.
+    4) Run Pyinstaller 
+    > pyinstaller -D "Path to File" -w
+    
+## Authors
 
-/Python/Lib/site-package/psutil
+-   **Shadowkiller213** - *Main developer*
 
-### If you want rename Program
+## License
 
-You need rename python script and compile
-
-
-
+This project is licensed under the [MIT LICENSE](LICENSE).
