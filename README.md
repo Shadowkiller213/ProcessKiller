@@ -34,9 +34,13 @@ Open this folder and replace in there
 ###"Path to Python"
 
 /Python/python3.dll
+
 /Python/python.version.dll
+
 /Python/DLLs/_socket.py
+
 /Python/DLLs/select
+
 /Python/Lib/site-package/psutil
 
 ### If you want rename Programm
