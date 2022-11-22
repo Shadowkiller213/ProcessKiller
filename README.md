@@ -48,8 +48,12 @@ If you want modify source code of this program, follow these steps:
     
 ## Authors
 
+![editor](https://user-images.githubusercontent.com/56482435/203430045-522fc7b8-bc55-44e3-811d-2362d7ec8ff5.png)
+
 -   **Shadowkiller213** - *Main developer*
 
 ## License
+
+![authorized-dealer](https://user-images.githubusercontent.com/56482435/203430135-2f1a0fde-e2bd-44d9-adea-9809e6b48a10.png)
 
 This project is licensed under the [MIT LICENSE](LICENSE).
